@@ -29,7 +29,7 @@
     "lodash.indexof": "^2.4.1"
   },
   "devDependencies": {
-    "browserify": "^4.1.5",
+    "browserify": "^5.12.0",
     "tape": "^3.0.0",
     "testling": "^1.6.1",
     "trigger-event": "^1.0.0"
