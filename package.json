@@ -22,7 +22,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "browserify test/index.js | testling"
+    "test": "browserify test/index.js | testling -x chromium"
   },
   "dependencies": {
     "component-event": "^0.1.3",
