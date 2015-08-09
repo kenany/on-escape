@@ -1,6 +1,6 @@
 {
   "name": "on-escape",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Attach an escape key handler",
   "keywords": [
     "bind",
