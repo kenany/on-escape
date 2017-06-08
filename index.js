@@ -28,9 +28,9 @@ onEscape.unbind = function(fn) {
 
 bind(document, 'keydown', function(e) {
   if (e.keyCode !== 27) return;
-  for (var i = 0, fn; fn = fns[i]; i++) {
+  fns.forEach(function(fn) {
     fn(e);
-  }
+  });
 });
 
 module.exports = onEscape;
