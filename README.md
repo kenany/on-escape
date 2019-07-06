@@ -1,7 +1,5 @@
 # on-escape
 
-[![Dependency Status](https://gemnasium.com/KenanY/on-escape.svg)](https://gemnasium.com/KenanY/on-escape)
-
 Attach an escape key handler.
 
 Rewrite of [segmentio/on-escape](https://github.com/segmentio/on-escape) for
