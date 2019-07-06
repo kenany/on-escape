@@ -8,7 +8,7 @@ test('adds a handler', function(t) {
     t.end();
   }
   onEscape(handler);
-  triggerEvent('keydown', {key: 'escape'});
+  triggerEvent('keydown', { key: 'escape' });
   onEscape.unbind(handler);
 });
 
@@ -18,7 +18,7 @@ test('removes a handler', function(t) {
   }
   onEscape(handler2);
   onEscape.unbind(handler2);
-  triggerEvent('keydown', {key: 'escape'});
+  triggerEvent('keydown', { key: 'escape' });
   t.pass();
   t.end();
 });
