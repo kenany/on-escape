@@ -1,6 +1,7 @@
-var onEscape = require('../');
 var test = require('tape');
 var triggerEvent = require('trigger-event');
+
+var onEscape = require('../');
 
 test('adds a handler', function(t) {
   function handler() {
