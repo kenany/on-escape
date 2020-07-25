@@ -36,7 +36,7 @@
     "browserify": "16.5.1",
     "eslint": "7.5.0",
     "tape": "5.0.1",
-    "tape-run": "7.0.0",
+    "tape-run": "8.0.0",
     "trigger-event": "1.0.3"
   }
 }
