@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "component-event": "^0.2.0",
-    "lodash.indexof": "^4.0.1"
+    "lodash.indexof": "^4.0.5"
   },
   "devDependencies": {
     "@kenan/eslint-config": "8.0.0",
