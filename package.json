@@ -33,7 +33,7 @@
   "devDependencies": {
     "@kenan/eslint-config": "^9.0.4",
     "browserify": "^17.0.0",
-    "eslint": "^7.32.0",
+    "eslint": "^8.7.0",
     "tape": "^5.4.0",
     "tape-run": "^9.0.0",
     "trigger-event": "^1.0.3"
