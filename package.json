@@ -35,7 +35,7 @@
     "browserify": "^17.0.0",
     "eslint": "^7.32.0",
     "tape": "^5.5.3",
-    "tape-run": "^9.0.0",
+    "tape-run": "^10.0.0",
     "trigger-event": "^1.0.5"
   }
 }
