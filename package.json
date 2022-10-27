@@ -34,7 +34,7 @@
     "@kenan/eslint-config": "^9.0.4",
     "browserify": "^17.0.0",
     "eslint": "^7.32.0",
-    "tape": "^5.6.0",
+    "tape": "^5.6.1",
     "tape-run": "^10.0.0",
     "trigger-event": "^1.0.5"
   }
