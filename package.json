@@ -31,7 +31,7 @@
     "lodash.indexof": "^4.0.5"
   },
   "devDependencies": {
-    "@kenan/eslint-config": "^10.0.1",
+    "@kenan/eslint-config": "^10.0.2",
     "browserify": "^17.0.0",
     "eslint": "^8.34.0",
     "tape": "^5.6.3",
