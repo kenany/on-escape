@@ -31,11 +31,11 @@
     "lodash.indexof": "^4.0.5"
   },
   "devDependencies": {
-    "@kenan/eslint-config": "^10.0.2",
-    "browserify": "^17.0.1",
-    "eslint": "^8.57.1",
-    "tape": "^5.9.0",
-    "tape-run": "^11.0.0",
-    "trigger-event": "^1.0.5"
+    "@kenan/eslint-config": "10.0.2",
+    "browserify": "17.0.1",
+    "eslint": "8.57.1",
+    "tape": "5.9.0",
+    "tape-run": "11.0.0",
+    "trigger-event": "1.0.5"
   }
 }
